@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aman Singh Rawat</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
-- 🔭 I’m currently working on **Main Project, Medical management**
-
-- 💬 Ask me about **C++**
-
-- 📫 How to reach me **amanrawatmait@gmail.com**
+👋 Hi, I’m @rawattji
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning how to deal with problems
+- 💞️ I’m looking to collaborate on intership
+- 📫 How to reach me , just mail me amanrawatmait@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -68,9 +68,6 @@
 
 ### 📊 GitHub Stats & Streaks
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rawattji&show_icons=true&theme=radical" alt="GitHub stats"/>
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rawattji&theme=radical" alt="GitHub streak"/>
 </p>
 <p align="center">

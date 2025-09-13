@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/amanrawatmait" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40"/>
   </a>
-  <a href="mailto:amanrawatmait@gmail.com" target="_blank">
+  <a href="mailto:amanrawatmait@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="40" width="40"/>
   </a>
   <a href="https://instagram.com/amanhikyun" target="_blank">
